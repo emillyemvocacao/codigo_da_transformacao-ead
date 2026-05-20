@@ -1,3 +1,0 @@
-'''
-Explicação sobre atividade-desafio
-'''
